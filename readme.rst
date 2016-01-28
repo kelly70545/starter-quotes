@@ -1,3 +1,8 @@
+Cody Lin
+Kelly Liu
+
+Conventions: allman style
+
 #######################
 Starter Webapp - Quotes
 #######################
