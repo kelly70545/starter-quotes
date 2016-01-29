@@ -40,6 +40,7 @@
 
 $route['default_controller'] = "welcome";
 $route['sleep'] = "first/zzz"; // wildcard routing for sleep link
+$route['show/(:num)'] = "first/gimme/$1";//wildcard routing for show link 
 $route['404_override'] = '';
 
 /* End of file routes.php */
