@@ -50,5 +50,6 @@ $route['dunno'] = function() {
     readfile($source); // dish it
     die(); // and we don't have to go any further
 };
+$route['comp(\d+)/(:any)'] = 'Wise/Bingo';
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
